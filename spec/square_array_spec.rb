@@ -20,3 +20,6 @@ describe '#square_array' do
   end
 
 end
+
+#'calls on each'
+#'should square the elements in an array'?
